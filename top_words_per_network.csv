@@ -1,0 +1,238 @@
+"","network","word","n"
+"1","ReKa Core","individuals",29
+"2","ReKa Core","support",27
+"3","Google Palm","individuals",26
+"4","Solar Mini","autism",26
+"5","Solar Mini","spectrum",24
+"6","OMS","autism",23
+"7","Google Palm","right",22
+"8","Solar Mini","individuals",21
+"9","Claude","support",20
+"10","Solar Mini","disorders",20
+"11","ScholarGPT","individuals",18
+"12","ChatGPT Vision","support",17
+"13","Google Palm","factors",17
+"14","ReKa Core","right",16
+"15","ReKa Core","social",16
+"16","ScholarGPT","support",16
+"17","Bing AI (Copilot)","autism",15
+"18","Bing AI (Copilot)","disorders",15
+"19","Claude","autism",15
+"20","Gemini","people",15
+"21","OMS","people",15
+"22","ReKa Core","disorders",15
+"23","OMS","health",14
+"24","ReKa Core","skills",14
+"25","Bing AI (Copilot)","individuals",13
+"26","Gemini","factors",13
+"27","ReKa Core","factors",13
+"28","ReKa Core","genetic",13
+"29","Bing AI (Copilot)","spectrum",12
+"30","ChatGPT Vision","disorders",12
+"31","OMS","care",12
+"32","ReKa Core","autism",12
+"33","ReKa Core","rights",12
+"34","ReKa Core","spectrum",12
+"35","ScholarGPT","disorders",12
+"36","ScholarGPT","early",12
+"37","ChatGPT 4.0","autism",11
+"38","ChatGPT 4.0","disorders",11
+"39","Claude","conditions",11
+"40","Claude","disorders",11
+"41","Claude","rights",11
+"42","Claude","social",11
+"43","Gemini","disorder",11
+"44","Gemini","right",11
+"45","Google Palm","support",11
+"46","Llama3","disorders",11
+"47","ReKa Core","communication",11
+"48","ReKa Core","including",11
+"49","ReKa Core","needs",11
+"50","ReKa Core","services",11
+"51","ScholarGPT","autism",11
+"52","Bing AI (Copilot)","social",10
+"53","Bing AI (Copilot)","support",10
+"54","ChatGPT 4.0","support",10
+"55","ChatGPT Vision","right",10
+"56","Claude","spectrum",10
+"57","Gemini","conditions",10
+"58","Gemini","disorders",10
+"59","Gemini","skills",10
+"60","Gemini","social",10
+"61","Google Palm","disorders",10
+"62","Google Palm","early",10
+"63","Google Palm","skills",10
+"64","Google Palm","therapy",10
+"65","ScholarGPT","communication",10
+"66","ScholarGPT","spectrum",10
+"67","ChatGPT 4.0","individuals",9
+"68","ChatGPT 4.0","spectrum",9
+"69","ChatGPT Vision","care",9
+"70","ChatGPT Vision","social",9
+"71","ChatGPT Vision","spectrum",9
+"72","Gemini","autism",9
+"73","Gemini","spectrum",9
+"74","Google Palm","autism",9
+"75","Google Palm","important",9
+"76","Google Palm","resolution",9
+"77","Google Palm","services",9
+"78","Google Palm","spectrum",9
+"79","Llama3","spectrum",9
+"80","ScholarGPT","services",9
+"81","Solar Mini","right",9
+"82","Solar Mini","social",9
+"83","Bing AI (Copilot)","brain",8
+"84","Bing AI (Copilot)","factors",8
+"85","ChatGPT 4.0","access",8
+"86","ChatGPT Vision","access",8
+"87","ChatGPT Vision","autism",8
+"88","ChatGPT Vision","factors",8
+"89","ChatGPT Vision","health",8
+"90","ChatGPT Vision","individuals",8
+"91","Claude","individual",8
+"92","Claude","individuals",8
+"93","Claude","medical",8
+"94","Claude","skills",8
+"95","Gemini","common",8
+"96","Gemini","genetic",8
+"97","Gemini","risk",8
+"98","Llama3","autism",8
+"99","Llama3","right",8
+"100","ScholarGPT","access",8
+"101","ScholarGPT","factors",8
+"102","ScholarGPT","including",8
+"103","Solar Mini","people",8
+"104","Solar Mini","therapy",8
+"105","Bing AI (Copilot)","communication",7
+"106","Bing AI (Copilot)","sensory",7
+"107","ChatGPT 4.0","care",7
+"108","ChatGPT 4.0","social",7
+"109","ChatGPT Vision","early",7
+"110","Claude","comprehensive",7
+"111","Claude","disorder",7
+"112","Claude","factors",7
+"113","Gemini","occurring",7
+"114","Google Palm","access",7
+"115","Google Palm","assessment",7
+"116","Google Palm","care",7
+"117","Google Palm","communication",7
+"118","Google Palm","conditions",7
+"119","Google Palm","diagnosis",7
+"120","Google Palm","genetic",7
+"121","Google Palm","includes",7
+"122","Google Palm","needs",7
+"123","Google Palm","note",7
+"124","Google Palm","social",7
+"125","OMS","needs",7
+"126","ScholarGPT","care",7
+"127","ScholarGPT","education",7
+"128","ScholarGPT","rights",7
+"129","ScholarGPT","sensory",7
+"130","ScholarGPT","social",7
+"131","Solar Mini","care",7
+"132","Solar Mini","disorder",7
+"133","Bing AI (Copilot)","anxiety",6
+"134","Bing AI (Copilot)","environmental",6
+"135","Bing AI (Copilot)","right",6
+"136","Bing AI (Copilot)","rights",6
+"137","Bing AI (Copilot)","skills",6
+"138","ChatGPT 4.0","education",6
+"139","ChatGPT 4.0","factors",6
+"140","ChatGPT 4.0","healthcare",6
+"141","ChatGPT Vision","conditions",6
+"142","ChatGPT Vision","education",6
+"143","ChatGPT Vision","skills",6
+"144","Claude","behavioral",6
+"145","Claude","care",6
+"146","Claude","diagnostic",6
+"147","Claude","educational",6
+"148","Claude","genetic",6
+"149","Gemini","developmental",6
+"150","Gemini","important",6
+"151","Gemini","including",6
+"152","Gemini","individuals",6
+"153","OMS","autistic",6
+"154","Solar Mini","communication",6
+"155","Solar Mini","condition",6
+"156","Solar Mini","research",6
+"157","Solar Mini","skills",6
+"158","ChatGPT 4.0","anxiety",5
+"159","ChatGPT 4.0","communication",5
+"160","ChatGPT 4.0","conditions",5
+"161","ChatGPT 4.0","families",5
+"162","ChatGPT 4.0","health",5
+"163","ChatGPT 4.0","inclusion",5
+"164","ChatGPT 4.0","right",5
+"165","ChatGPT 4.0","rights",5
+"166","ChatGPT 4.0","sensory",5
+"167","ChatGPT 4.0","skills",5
+"168","Llama3","disorder",5
+"169","OMS","conditions",5
+"170","OMS","including",5
+"171","OMS","support",5
+"172","Solar Mini","assessment",5
+"173","Solar Mini","development",5
+"174","Solar Mini","language",5
+"175","Solar Mini","medical",5
+"176","Solar Mini","quality",5
+"177","Solar Mini","speech",5
+"178","Solar Mini","support",5
+"179","Llama3","prevalence",4
+"180","Llama3","therapy",4
+"181","OMS","childhood",4
+"182","OMS","factors",4
+"183","OMS","life",4
+"184","OMS","risk",4
+"185","OMS","services",4
+"186","Llama3","communication",3
+"187","Llama3","factors",3
+"188","Llama3","health",3
+"189","OMS","child",3
+"190","OMS","children",3
+"191","OMS","difficulty",3
+"192","OMS","disabilities",3
+"193","OMS","early",3
+"194","OMS","education",3
+"195","OMS","evidence",3
+"196","OMS","general",3
+"197","OMS","important",3
+"198","OMS","interventions",3
+"199","OMS","population",3
+"200","OMS","reported",3
+"201","OMS","require",3
+"202","OMS","research",3
+"203","OMS","studies",3
+"204","OMS","vaccines",3
+"205","OMS","well",3
+"206","Llama3","access",2
+"207","Llama3","anxiety",2
+"208","Llama3","areas",2
+"209","Llama3","assessment",2
+"210","Llama3","attention",2
+"211","Llama3","behavioral",2
+"212","Llama3","care",2
+"213","Llama3","characterized",2
+"214","Llama3","conditions",2
+"215","Llama3","early",2
+"216","Llama3","education",2
+"217","Llama3","evaluation",2
+"218","Llama3","genetic",2
+"219","Llama3","global",2
+"220","Llama3","healthcare",2
+"221","Llama3","hyperactivity",2
+"222","Llama3","inclusion",2
+"223","Llama3","individuals",2
+"224","Llama3","intervention",2
+"225","Llama3","occupational",2
+"226","Llama3","occurring",2
+"227","Llama3","participation",2
+"228","Llama3","resolution",2
+"229","Llama3","sensory",2
+"230","Llama3","services",2
+"231","Llama3","skills",2
+"232","Llama3","social",2
+"233","Llama3","speech",2
+"234","Llama3","strategies",2
+"235","Llama3","structure",2
+"236","Llama3","support",2
+"237","Llama3","training",2
